@@ -1,7 +1,8 @@
-package com.patrickchow.myapplication
+package com.patrickchow.myapplication.ui.quotes
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.patrickchow.myapplication.R
 
 class QuotesActivity : AppCompatActivity() {
 
